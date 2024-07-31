@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>James Thaiflute - ขลุ่ยไทยสไตล์ครูเจมส์</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #e8f5e9;
+            color: #2e7d32;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #1b5e20;
+            color: white;
+            padding: 10px 0;
+            text-align: center;
+        }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            padding: 20px 0;
+        }
+        .profile-img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: 0 auto;
+        }
+        h1 {
+            text-align: center;
+            font-size: 2.5em;
+        }
+        .section {
+            margin: 20px 0;
+        }
+        .section h2 {
+            border-bottom: 2px solid #1b5e20;
+            padding-bottom: 5px;
+        }
+        footer {
+            background-color: #1b5e20;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>James Thaiflute - ขลุ่ยไทยสไตล์ครูเจมส์</h1>
+    </header>
+    <div class="container">
+        <img src="/mnt/data/D5083B32-3ED8-4FF4-87F8-388067D0E63B.jpeg" alt="James Thaiflute" class="profile-img">
+        
+        <div class="section">
+            <h2>เกี่ยวกับฉัน</h2>
+            <p>ยินดีต้อนรับสู่เว็บไซต์ส่วนตัวของครูเจมส์ ผู้เชี่ยวชาญด้านการสอนขลุ่ยไทย ฉันมีประสบการณ์สอนขลุ่ยไทยมาเป็นเวลาหลายปี และมีความยินดีที่จะแบ่งปันความรู้และเทคนิคต่างๆ ให้กับนักเรียนทุกระดับ</p>
+        </div>
+        
+        <div class="section">
+            <h2>ประวัติการทำงาน</h2>
+            <p>ครูเจมส์ได้รับการฝึกฝนการเล่นขลุ่ยไทยจากผู้เชี่ยวชาญระดับประเทศ และมีประสบการณ์การสอนทั้งในโรงเรียนและการเรียนการสอนออนไลน์มาอย่างยาวนาน</p>
+        </div>
+        
+        <div class="section">
+            <h2>ผลงาน</h2>
+            <p>ครูเจมส์ได้สร้างผลงานการสอนขลุ่ยไทยผ่านช่อง YouTube <strong>'JAMES THAIFLUTE - ขลุ่ยไทยสไตล์ครูเจมส์'</strong> และมีนักเรียนที่ได้พัฒนาทักษะการเล่นขลุ่ยไทยอย่างมากมาย</p>
+        </div>
+        
+        <div class="section">
+            <h2>ติดต่อ</h2>
+            <p>หากคุณสนใจเรียนขลุ่ยไทยกับครูเจมส์ สามารถติดต่อได้ผ่านทาง:</p>
+            <ul>
+                <li>Email: james@thaiflute.com</li>
+                <li>Facebook: <a href="https://www.facebook.com/YourFacebookPage">JAMES THAIFLUTE</a></li>
+                <li>โทรศัพท์: 081-234-5678</li>
+            </ul>
+        </div>
+    </div>
+    <footer>
+        <p>&copy; 2024 James Thaiflute</p>
+    </footer>
+</body>
+</html>
